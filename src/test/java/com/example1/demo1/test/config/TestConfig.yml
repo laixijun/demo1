@@ -1,0 +1,11 @@
+UI:
+  testFile:
+    UIFile: /Users/moka/IdeaProjects/demo1/src/test/java/com/example1/demo1/test/test/file/writeExcel.xlsx
+  url:
+    app:
+      appLogin: https://app.mokahr.com/login
+      useremail: yangzhiyong@mokahr.com
+      userpassword: Zhy.yang123
+
+
+
